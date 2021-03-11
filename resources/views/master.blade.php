@@ -63,7 +63,8 @@
     	height: 200px;
         width: 80px;
         margin-top: 60px;
-    }
+    } 
+    
 </style>
 </html>
 

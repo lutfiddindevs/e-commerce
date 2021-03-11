@@ -22,7 +22,7 @@ if (Session::has('user')) {
         <a class="nav-link" href="#">Orders</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Cart({{ $total }})</a>
+        <a class="nav-link" href="/cartlist">Cart({{ $total }})</a>
       </li>
       @if(Session::has('user'))
       <li class="nav-item dropdown">
