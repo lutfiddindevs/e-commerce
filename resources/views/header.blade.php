@@ -38,6 +38,7 @@ if (Session::has('user')) {
       </li>
       @else
       <a class="nav-link" href="/login">Login</a>
+      <a class="nav-link" href="/register">Register</a>
       @endif
     </ul>
     <form class="form-inline my-2 my-lg-0" action="/search">
