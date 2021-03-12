@@ -64,6 +64,9 @@
         width: 80px;
         margin-top: 60px;
     } 
+    .ordernow {
+    	margin-left: 100px;
+    }
     
 </style>
 </html>
